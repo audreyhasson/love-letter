@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "author": "auds",
+            "content": "lorem ipsum i love kevin"
+        },
+        {
+            "author": "auds",
+            "content": "two"
+        },
+        {
+            "author": "kev",
+            "content": "threeeee"
+        },
+        {
+            "author": "kev",
+            "content": "foor"
+        },
+        {
+            "author": "kev",
+            "content": "five"
+        }
+    ]
+}
